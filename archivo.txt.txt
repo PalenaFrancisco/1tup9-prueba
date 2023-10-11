@@ -1,0 +1,2 @@
+untracked
+trakeado y listo para un commit 
